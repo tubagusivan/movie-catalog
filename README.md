@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Published at: [https://tubagusivan.github.io/movie-catalog/](https://tubagusivan.github.io/movie-catalog/)
+
 ## Available Scripts
 
 In the project directory, you can run:
